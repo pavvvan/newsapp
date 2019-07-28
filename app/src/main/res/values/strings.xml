@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">news app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developedby">Developed by Pavan \n for Recruitment process of Grab(India) </string>
+    <string name="select_cat">Please Select Category</string>
 </resources>
