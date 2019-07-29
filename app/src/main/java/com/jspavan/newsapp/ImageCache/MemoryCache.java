@@ -17,7 +17,7 @@ public class MemoryCache {
     private long limit=1000000;
 
     public MemoryCache(){
-        //use 25% of available heap size
+       
         setLimit(Runtime.getRuntime().maxMemory()/4);
     }
 
